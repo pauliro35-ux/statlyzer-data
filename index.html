@@ -3,60 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>STATLYZER SH - Analytics Prototip</title>
+    <title>STATLYZER SH - Pro</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background-color: #0b0e14; }
-        .tech-card { background: #161a22; border: 1px solid #30363d; box-shadow: 0 0 20px rgba(0, 119, 255, 0.1); }
+        body { background: #0f172a; color: white; font-family: sans-serif; }
+        .card { background: #1e293b; border-radius: 15px; padding: 15px; margin-bottom: 10px; border-left: 5px solid #3b82f6; cursor: pointer; }
+        .badge { font-size: 0.7rem; padding: 2px 8px; border-radius: 10px; text-transform: uppercase; }
     </style>
 </head>
-<body class="p-6 flex flex-col items-center min-h-screen text-gray-200">
+<body class="p-4">
+    <h1 class="text-2xl font-bold text-center text-blue-400 mb-6 uppercase tracking-widest">Statlyzer SH</h1>
+    
+    <div id="loading" class="text-center text-gray-400">Se încarcă analizele SportAPI...</div>
+    
+    <div id="match-list" class="space-y-3"></div>
 
-    <div class="w-full max-w-md text-center py-8 border-b-2 border-blue-600 mb-8">
-        <h1 class="text-3xl font-extrabold tracking-widest text-blue-400">STATLYZER SH</h1>
-        <p class="text-xs text-gray-500 mt-2 uppercase tracking-tighter">Advanced Sports Analytics Engine</p>
-    </div>
-
-    <div class="w-full max-w-md tech-card rounded-3xl p-8 mb-8">
-        <label class="text-xs text-gray-400 font-bold ml-1 uppercase">Select Analytics Database</label>
-        <select id="matchSelect" class="w-full bg-gray-900 border border-gray-700 rounded-xl p-4 mt-2 mb-8 outline-none focus:border-blue-500 transition-all text-gray-400">
-            <option value="">Searching for live data...</option>
-        </select>
-
-        <button onclick="runAnalysis()" class="w-full bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 rounded-2xl shadow-lg transform active:scale-95 transition-all uppercase tracking-wider text-sm">
-            Run Statistical Model
-        </button>
-    </div>
-
-    <div id="results" class="w-full max-w-md tech-card rounded-3xl p-8 hidden animate-pulse">
-        <div class="mb-6 pb-6 border-b border-gray-700">
-            <span class="text-blue-400 font-bold block mb-2 text-sm uppercase">Mathematical Probability</span>
-            <div class="flex justify-between items-center bg-gray-900 p-4 rounded-xl">
-                <span id="matchName" class="text-white font-medium">-- vs --</span>
-                <span class="text-3xl font-black text-blue-400">88%</span>
+    <div id="details-modal" class="fixed inset-0 bg-black bg-opacity-90 hidden p-6 flex flex-col justify-center">
+        <button onclick="closeModal()" class="absolute top-5 right-5 text-3xl">&times;</button>
+        <div id="modal-content" class="bg-slate-800 p-6 rounded-3xl border border-blue-500">
             </div>
-        </div>
-
-        <div class="grid grid-cols-2 gap-6">
-            <div class="p-5 bg-gray-900 rounded-xl border-l-4 border-green-500">
-                <span class="text-[11px] text-green-400 font-bold block mb-1 uppercase tracking-tight">Set Piece Intensity</span>
-                <span class="text-xl font-extrabold text-white">9.5+ Corners</span>
-            </div>
-            <div class="p-5 bg-gray-900 rounded-xl border-l-4 border-yellow-500">
-                <span class="text-[11px] text-yellow-400 font-bold block mb-1 uppercase tracking-tight">Discipline Index</span>
-                <span class="text-xl font-extrabold text-white">Strict (4-6)</span>
-            </div>
-        </div>
-        
-        <p class="text-[9px] text-gray-600 text-center uppercase mt-6 pt-6 border-t border-gray-700">Model: Poisson Distribution v2 | Data: SportAPI v7</p>
     </div>
 
     <script>
-        // Simulare incarcare date din baza ta viitoare
-        function runAnalysis() {
-            document.getElementById('results').classList.remove('hidden');
-            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+        async function loadData() {
+            try {
+                const r = await fetch('data.json?v=' + Date.now());
+                const data = await r.json();
+                document.getElementById('loading').classList.add('hidden');
+                const list = document.getElementById('match-list');
+                
+                data.forEach((m, index) => {
+                    const div = document.createElement('div');
+                    div.className = 'card';
+                    div.innerHTML = `
+                        <div class="flex justify-between items-center">
+                            <div>
+                                <p class="text-gray-400 text-[10px] uppercase font-bold">${m.liga}</p>
+                                <p class="font-bold text-lg">${m.meci}</p>
+                            </div>
+                            <span class="bg-blue-600 badge">Analizat</span>
+                        </div>
+                    `;
+                    div.onclick = () => showDetails(m);
+                    list.appendChild(div);
+                });
+            } catch (e) { document.getElementById('loading').innerText = "Rulează scriptul Python mai întâi!"; }
         }
+
+        function showDetails(m) {
+            const modal = document.getElementById('details-modal');
+            const content = document.getElementById('modal-content');
+            content.innerHTML = `
+                <h2 class="text-xl font-black text-center text-blue-400 mb-4 border-b border-gray-600 pb-2">${m.meci}</h2>
+                <div class="grid grid-cols-2 gap-3">
+                    <div class="bg-slate-900 p-3 rounded-xl"><p class="text-[10px] text-gray-400">PROBABILITATE GG</p><p class="text-xl font-bold text-pink-500">${m.gg_prob}%</p></div>
+                    <div class="bg-slate-900 p-3 rounded-xl"><p class="text-[10px] text-gray-400">PESTE 2.5 GOLURI</p><p class="text-xl font-bold text-purple-500">${m.over25_prob}%</p></div>
+                    <div class="bg-slate-900 p-3 rounded-xl"><p class="text-[10px] text-gray-400">PREDICȚIE 1X2</p><p class="text-lg font-bold text-blue-400">${m.pred1x2}</p></div>
+                    <div class="bg-slate-900 p-3 rounded-xl"><p class="text-[10px] text-gray-400">CORNERE EST.</p><p class="text-xl font-bold text-green-500">${m.corners_total}</p></div>
+                    <div class="bg-slate-900 p-3 rounded-xl"><p class="text-[10px] text-gray-400">GALBENE EST.</p><p class="text-xl font-bold text-yellow-500">${m.cards_total}</p></div>
+                    <div class="bg-slate-900 p-3 rounded-xl"><p class="text-[10px] text-gray-400">CONFIDENȚĂ</p><p class="text-xl font-bold text-white">${m.confidence}%</p></div>
+                </div>
+            `;
+            modal.classList.remove('hidden');
+        }
+
+        function closeModal() { document.getElementById('details-modal').classList.add('hidden'); }
+        loadData();
     </script>
 </body>
 </html>
