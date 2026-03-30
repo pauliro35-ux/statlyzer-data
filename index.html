@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STATLYZER SH - Preview</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #0d1117; color: #e6edf3; }
+        .glass { background: rgba(22, 27, 34, 0.8); backdrop-filter: blur(10px); border: 1px solid #30363d; }
+        .cyan-glow { box-shadow: 0 0 15px rgba(0, 210, 255, 0.2); }
+    </style>
+</head>
+<body class="p-4 flex flex-col items-center min-h-screen">
+
+    <div class="w-full max-w-md text-center py-6 border-b border-blue-500 mb-6">
+        <h1 class="text-3xl font-black tracking-widest text-blue-400">STATLYZER SH</h1>
+        <p class="text-xs text-gray-500 mt-1 uppercase tracking-tighter">Advanced Sports Analytics Engine</p>
+    </div>
+
+    <div class="w-full max-w-md glass rounded-3xl p-6 cyan-glow">
+        <label class="text-xs text-gray-400 font-bold ml-1 uppercase">Select Analytics Database</label>
+        <select id="matchSelect" class="w-full bg-gray-900 border border-gray-700 rounded-xl p-4 mt-2 mb-6 outline-none focus:border-blue-500 transition-all">
+            <option value="">Searching for live data...</option>
+        </select>
+
+        <button onclick="showAnalysis()" class="w-full bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 rounded-2xl shadow-lg transform active:scale-95 transition-all uppercase tracking-wider">
+            Run Statistical Model
+        </button>
+
+        <div id="results" class="hidden mt-8 space-y-6 animate-pulse">
+            <div class="p-4 bg-gray-900 rounded-2xl border-l-4 border-blue-500">
+                <span class="text-xs text-blue-400 font-bold block mb-2 uppercase">Poisson Score Projection</span>
+                <div class="flex justify-between items-center">
+                    <span id="matchName" class="text-sm font-medium">-- vs --</span>
+                    <span class="text-xl font-black text-white">2 - 1</span>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-2 gap-4">
+                <div class="p-4 bg-gray-900 rounded-2xl border-l-4 border-green-500">
+                    <span class="text-[10px] text-green-400 font-bold block mb-1 uppercase">Set Piece Intensity</span>
+                    <span class="text-lg font-bold">9.5+ Corners</span>
+                </div>
+                <div class="p-4 bg-gray-900 rounded-2xl border-l-4 border-yellow-500">
+                    <span class="text-[10px] text-yellow-400 font-bold block mb-1 uppercase">Discipline Index</span>
+                    <span class="text-lg font-bold">Strict (4-6)</span>
+                </div>
+            </div>
+            
+            <p class="text-[9px] text-gray-600 text-center uppercase mt-4">Data Source: SportAPI v7 Professional Tier</p>
+        </div>
+    </div>
+
+    <script>
+        // Aici vom simula datele care vin din GitHub-ul tău
+        function showAnalysis() {
+            const res = document.getElementById('results');
+            res.classList.remove('hidden');
+            res.classList.remove('animate-pulse');
+            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>
