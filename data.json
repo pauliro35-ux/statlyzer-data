@@ -10,7 +10,7 @@
             "corners_total": 10.0,
             "cards_total": 5.7,
             "confidence": "97%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: FREQUENT FOULS/CARDS"
         },
         {
             "meci": "Esenler Erokspor vs Amed Sportif Faaliyetler",
@@ -22,7 +22,7 @@
             "corners_total": 11.2,
             "cards_total": 4.2,
             "confidence": "81%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "İstanbulspor vs Erzurumspor FK",
@@ -34,7 +34,7 @@
             "corners_total": 10.8,
             "cards_total": 4.8,
             "confidence": "97%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "KF Shkupi vs FC Struga Trim & Lum",
@@ -46,7 +46,7 @@
             "corners_total": 9.4,
             "cards_total": 5.4,
             "confidence": "90%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: FREQUENT FOULS/CARDS"
         },
         {
             "meci": "Makedonija Gjorce Petrov vs FK Arsimi 1973",
@@ -58,7 +58,7 @@
             "corners_total": 8.2,
             "cards_total": 3.3,
             "confidence": "84%",
-            "pred1x2": "TARGET: BOTH TEAMS TO SCORE"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Central Coast Mariners vs Brisbane Roar",
@@ -70,7 +70,7 @@
             "corners_total": 11.8,
             "cards_total": 5.4,
             "confidence": "96%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Preah Khan Reach Svay Rieng FC vs Manila Digger FC",
@@ -82,7 +82,7 @@
             "corners_total": 8.8,
             "cards_total": 5.1,
             "confidence": "84%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: FREQUENT FOULS/CARDS"
         },
         {
             "meci": "Dalian Yingbo FC vs Zhejiang",
@@ -94,7 +94,7 @@
             "corners_total": 8.4,
             "cards_total": 5.1,
             "confidence": "93%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Platense vs Corinthians",
@@ -106,7 +106,7 @@
             "corners_total": 11.3,
             "cards_total": 4.3,
             "confidence": "92%",
-            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Independiente Santa Fe vs Peñarol",
@@ -118,7 +118,7 @@
             "corners_total": 10.9,
             "cards_total": 4.7,
             "confidence": "92%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Rosario Central vs Independiente del Valle",
@@ -130,7 +130,7 @@
             "corners_total": 9.0,
             "cards_total": 4.7,
             "confidence": "88%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
         },
         {
             "meci": "Universidad Central vs Libertad",
@@ -142,7 +142,7 @@
             "corners_total": 8.4,
             "cards_total": 3.9,
             "confidence": "89%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Macará vs América de Cali",
@@ -154,7 +154,7 @@
             "corners_total": 8.2,
             "cards_total": 3.9,
             "confidence": "86%",
-            "pred1x2": "TARGET: 0.5+ 1ST HALF GOALS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Juventud de Las Piedras vs Cienciano",
@@ -166,7 +166,7 @@
             "corners_total": 12.1,
             "cards_total": 5.5,
             "confidence": "95%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Botafogo vs Caracas F.C.",
@@ -178,7 +178,7 @@
             "corners_total": 8.9,
             "cards_total": 5.3,
             "confidence": "94%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: FREQUENT FOULS/CARDS"
         },
         {
             "meci": "Carabobo FC vs Red Bull Bragantino",
@@ -190,7 +190,7 @@
             "corners_total": 12.3,
             "cards_total": 4.7,
             "confidence": "89%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Gimnasia y Esgrima vs Camioneros",
@@ -202,7 +202,7 @@
             "corners_total": 10.0,
             "cards_total": 2.7,
             "confidence": "84%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "AO Itabaiana vs Confiança",
@@ -214,7 +214,7 @@
             "corners_total": 10.4,
             "cards_total": 3.0,
             "confidence": "88%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "ASA vs CRB",
@@ -226,7 +226,7 @@
             "corners_total": 9.7,
             "cards_total": 5.9,
             "confidence": "98%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Al Ula vs Abha",
@@ -238,7 +238,7 @@
             "corners_total": 9.9,
             "cards_total": 2.8,
             "confidence": "98%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Al Adalah vs Al Batin",
@@ -250,7 +250,7 @@
             "corners_total": 11.6,
             "cards_total": 3.5,
             "confidence": "89%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Ismailia Electricity Club vs Al-Ittihad Alexandria",
@@ -262,7 +262,7 @@
             "corners_total": 11.0,
             "cards_total": 4.3,
             "confidence": "98%",
-            "pred1x2": "TARGET: 0.5+ 1ST HALF GOALS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Tala'ea El-Gaish vs National Bank of Egypt",
@@ -274,7 +274,7 @@
             "corners_total": 12.2,
             "cards_total": 2.8,
             "confidence": "84%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Arab Contractors FC vs Ismaily",
@@ -286,7 +286,7 @@
             "corners_total": 9.7,
             "cards_total": 2.6,
             "confidence": "88%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
             "meci": "Petrojet vs ZED FC",
@@ -298,7 +298,7 @@
             "corners_total": 10.2,
             "cards_total": 3.7,
             "confidence": "88%",
-            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "PSIM Yogyakarta vs PSM Makassar",
@@ -310,7 +310,7 @@
             "corners_total": 11.7,
             "cards_total": 2.7,
             "confidence": "83%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Chindia Târgoviște vs FC Bihor Oradea",
@@ -322,7 +322,7 @@
             "corners_total": 8.6,
             "cards_total": 4.5,
             "confidence": "92%",
-            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: 3 OR MORE GOALS"
         },
         {
             "meci": "MC Oran vs MB Rouissat",
@@ -334,7 +334,7 @@
             "corners_total": 10.6,
             "cards_total": 3.1,
             "confidence": "97%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "MC Alger vs MC El Bayadh",
@@ -346,7 +346,7 @@
             "corners_total": 10.9,
             "cards_total": 3.1,
             "confidence": "95%",
-            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "FK Novi Pazar vs FK Partizan",
@@ -358,7 +358,7 @@
             "corners_total": 12.0,
             "cards_total": 5.9,
             "confidence": "81%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "FK Crvena zvezda vs FK Spartak Subotica",
@@ -370,7 +370,7 @@
             "corners_total": 9.4,
             "cards_total": 5.6,
             "confidence": "89%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "FK Čukarički vs FK Radnički 1923",
@@ -382,7 +382,7 @@
             "corners_total": 12.4,
             "cards_total": 5.4,
             "confidence": "86%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "OFK Beograd vs FK Radnik Surdulica",
@@ -394,7 +394,7 @@
             "corners_total": 10.6,
             "cards_total": 4.8,
             "confidence": "84%",
-            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Lokomotiv Sofia vs Beroe Stara Zagora",
@@ -406,7 +406,7 @@
             "corners_total": 11.9,
             "cards_total": 5.4,
             "confidence": "95%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Ludogorets vs Cherno More Varna",
@@ -418,7 +418,7 @@
             "corners_total": 10.2,
             "cards_total": 4.2,
             "confidence": "84%",
-            "pred1x2": "TARGET: 0.5+ 1ST HALF GOALS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Levski Sofia vs Arda Kardzhali",
@@ -430,7 +430,7 @@
             "corners_total": 10.8,
             "cards_total": 4.4,
             "confidence": "97%",
-            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: 3 OR MORE GOALS"
         },
         {
             "meci": "FK Spartak Varna vs FK Dobrudzha Dobrich",
@@ -442,7 +442,7 @@
             "corners_total": 12.4,
             "cards_total": 3.1,
             "confidence": "83%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "FK Karvan Yevlax vs Kəpəz PFK",
@@ -454,7 +454,7 @@
             "corners_total": 9.3,
             "cards_total": 5.6,
             "confidence": "87%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Tanjong Pagar United vs Young Lions",
@@ -466,7 +466,7 @@
             "corners_total": 12.1,
             "cards_total": 2.8,
             "confidence": "80%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "SC Poltava vs Polissya Zhytomyr",
@@ -478,7 +478,7 @@
             "corners_total": 10.8,
             "cards_total": 4.2,
             "confidence": "81%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Unión Magdalena vs Envigado FC",
@@ -490,7 +490,7 @@
             "corners_total": 9.7,
             "cards_total": 5.4,
             "confidence": "81%",
-            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Al-Wahda FC vs Al-Ittihad Kalba",
@@ -502,7 +502,7 @@
             "corners_total": 9.3,
             "cards_total": 4.9,
             "confidence": "92%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Raków Częstochowa vs GKS Katowice",
@@ -514,7 +514,7 @@
             "corners_total": 11.0,
             "cards_total": 5.5,
             "confidence": "82%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Capalaba Bulldogs vs Redlands United",
@@ -526,7 +526,7 @@
             "corners_total": 12.1,
             "cards_total": 5.9,
             "confidence": "90%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Ipswich FC vs Logan Lightning",
@@ -538,7 +538,7 @@
             "corners_total": 11.5,
             "cards_total": 5.6,
             "confidence": "93%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Damac FC vs Al-Qadsiah",
@@ -550,7 +550,7 @@
             "corners_total": 12.0,
             "cards_total": 4.2,
             "confidence": "83%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Al-Ettifaq vs Al-Riyadh",
@@ -562,7 +562,7 @@
             "corners_total": 11.9,
             "cards_total": 5.5,
             "confidence": "95%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Jamshedpur FC vs Mumbai City FC",
@@ -574,7 +574,7 @@
             "corners_total": 11.1,
             "cards_total": 2.6,
             "confidence": "91%",
-            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "NorthEast United FC vs Sporting Delhi",
@@ -586,7 +586,7 @@
             "corners_total": 11.6,
             "cards_total": 3.6,
             "confidence": "85%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Çaykur Rizespor vs Samsunspor",
@@ -598,7 +598,7 @@
             "corners_total": 11.4,
             "cards_total": 5.8,
             "confidence": "93%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Colombia U17 vs Uruguay U17",
@@ -610,7 +610,7 @@
             "corners_total": 10.1,
             "cards_total": 4.2,
             "confidence": "89%",
-            "pred1x2": "TARGET: BOTH TEAMS TO SCORE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Chile U17 vs Paraguay U17",
@@ -622,7 +622,7 @@
             "corners_total": 9.4,
             "cards_total": 5.6,
             "confidence": "93%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Rayo Vallecano vs AEK Athens",
@@ -634,7 +634,7 @@
             "corners_total": 8.7,
             "cards_total": 4.8,
             "confidence": "82%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
             "meci": "1. FSV Mainz 05 vs RC Strasbourg",
@@ -646,7 +646,7 @@
             "corners_total": 8.6,
             "cards_total": 4.7,
             "confidence": "80%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
             "meci": "Crystal Palace vs Fiorentina",
@@ -658,7 +658,7 @@
             "corners_total": 9.3,
             "cards_total": 5.4,
             "confidence": "83%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: FREQUENT FOULS/CARDS"
         },
         {
             "meci": "Shakhtar Donetsk vs AZ Alkmaar",
@@ -670,7 +670,7 @@
             "corners_total": 11.8,
             "cards_total": 5.2,
             "confidence": "89%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Bologna vs Aston Villa",
@@ -682,7 +682,7 @@
             "corners_total": 9.9,
             "cards_total": 3.7,
             "confidence": "88%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "FC Porto vs Nottingham Forest",
@@ -694,7 +694,7 @@
             "corners_total": 11.7,
             "cards_total": 5.6,
             "confidence": "83%",
-            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "SC Freiburg vs Celta Vigo",
@@ -706,7 +706,7 @@
             "corners_total": 10.9,
             "cards_total": 3.0,
             "confidence": "95%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
             "meci": "FK Grobiņa vs SK Super Nova",
@@ -718,7 +718,7 @@
             "corners_total": 9.4,
             "cards_total": 2.7,
             "confidence": "83%",
-            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Riga FC vs FK Tukums 2000",
@@ -730,7 +730,7 @@
             "corners_total": 12.0,
             "cards_total": 4.5,
             "confidence": "94%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "FC Isloch Minsk Region vs Dynamo Brest",
@@ -742,49 +742,49 @@
             "corners_total": 12.4,
             "cards_total": 4.9,
             "confidence": "92%",
-            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         }
     ],
     "history": [
         {
             "meci": "SC Freiburg vs Celta Vigo",
-            "pick": "TARGET: 1X / X2 FAVORITE"
+            "pick": "EXPECTED: STABLE MATCH FLOW"
         },
         {
             "meci": "Juventud de Las Piedras vs Cienciano",
-            "pick": "TARGET: 4.5+ TOTAL CARDS"
+            "pick": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Boluspor vs Sivasspor",
-            "pick": "TARGET: 4.5+ TOTAL CARDS"
+            "pick": "EXPECTED: FREQUENT FOULS/CARDS"
         },
         {
             "meci": "İstanbulspor vs Erzurumspor FK",
-            "pick": "TARGET: 1X / X2 FAVORITE"
+            "pick": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Central Coast Mariners vs Brisbane Roar",
-            "pick": "TARGET: 9.5+ TOTAL CORNERS"
+            "pick": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Ismailia Electricity Club vs Al-Ittihad Alexandria",
-            "pick": "TARGET: 0.5+ 1ST HALF GOALS"
+            "pick": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Al-Ettifaq vs Al-Riyadh",
-            "pick": "TARGET: 4.5+ TOTAL CARDS"
+            "pick": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "MC Oran vs MB Rouissat",
-            "pick": "TARGET: 1X / X2 FAVORITE"
+            "pick": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "MC Alger vs MC El Bayadh",
-            "pick": "TARGET: 1.5+ TOTAL GOALS"
+            "pick": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "ASA vs CRB",
-            "pick": "TARGET: 4.5+ TOTAL CARDS"
+            "pick": "EXPECTED: 2 OR MORE GOALS"
         }
     ]
 }
