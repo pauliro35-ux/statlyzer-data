@@ -1,246 +1,6 @@
 {
     "matches": [
         {
-            "meci": "Bologna vs Aston Villa",
-            "liga": "UEFA EUROPA LEAGUE, KNOCKOUT STAGE",
-            "o05_fh": "84%",
-            "over15": "92%",
-            "over25": "81%",
-            "gg_prob": "58%",
-            "corners_total": 9.9,
-            "cards_total": 3.7,
-            "confidence": "88%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "FC Porto vs Nottingham Forest",
-            "liga": "UEFA EUROPA LEAGUE, KNOCKOUT STAGE",
-            "o05_fh": "68%",
-            "over15": "77%",
-            "over25": "83%",
-            "gg_prob": "65%",
-            "corners_total": 11.7,
-            "cards_total": 5.6,
-            "confidence": "83%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "SC Freiburg vs Celta Vigo",
-            "liga": "UEFA EUROPA LEAGUE, KNOCKOUT STAGE",
-            "o05_fh": "74%",
-            "over15": "85%",
-            "over25": "60%",
-            "gg_prob": "69%",
-            "corners_total": 10.9,
-            "cards_total": 3.0,
-            "confidence": "95%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Rayo Vallecano vs AEK Athens",
-            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
-            "o05_fh": "65%",
-            "over15": "78%",
-            "over25": "56%",
-            "gg_prob": "61%",
-            "corners_total": 8.7,
-            "cards_total": 4.8,
-            "confidence": "82%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "1. FSV Mainz 05 vs RC Strasbourg",
-            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
-            "o05_fh": "76%",
-            "over15": "85%",
-            "over25": "75%",
-            "gg_prob": "59%",
-            "corners_total": 8.6,
-            "cards_total": 4.7,
-            "confidence": "80%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Crystal Palace vs Fiorentina",
-            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
-            "o05_fh": "71%",
-            "over15": "76%",
-            "over25": "68%",
-            "gg_prob": "44%",
-            "corners_total": 9.3,
-            "cards_total": 5.4,
-            "confidence": "83%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Shakhtar Donetsk vs AZ Alkmaar",
-            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
-            "o05_fh": "79%",
-            "over15": "92%",
-            "over25": "86%",
-            "gg_prob": "43%",
-            "corners_total": 11.8,
-            "cards_total": 5.2,
-            "confidence": "89%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Platense vs Corinthians",
-            "liga": "CONMEBOL LIBERTADORES, GROUP E",
-            "o05_fh": "74%",
-            "over15": "98%",
-            "over25": "52%",
-            "gg_prob": "86%",
-            "corners_total": 11.3,
-            "cards_total": 4.3,
-            "confidence": "92%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Independiente Santa Fe vs Peñarol",
-            "liga": "CONMEBOL LIBERTADORES, GROUP E",
-            "o05_fh": "80%",
-            "over15": "92%",
-            "over25": "79%",
-            "gg_prob": "50%",
-            "corners_total": 10.9,
-            "cards_total": 4.7,
-            "confidence": "92%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Rosario Central vs Independiente del Valle",
-            "liga": "CONMEBOL LIBERTADORES, GROUP H",
-            "o05_fh": "83%",
-            "over15": "80%",
-            "over25": "45%",
-            "gg_prob": "84%",
-            "corners_total": 9.0,
-            "cards_total": 4.7,
-            "confidence": "88%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Universidad Central vs Libertad",
-            "liga": "CONMEBOL LIBERTADORES, GROUP H",
-            "o05_fh": "74%",
-            "over15": "91%",
-            "over25": "82%",
-            "gg_prob": "83%",
-            "corners_total": 8.4,
-            "cards_total": 3.9,
-            "confidence": "89%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Macará vs América de Cali",
-            "liga": "CONMEBOL SUDAMERICANA, GROUP A",
-            "o05_fh": "92%",
-            "over15": "84%",
-            "over25": "46%",
-            "gg_prob": "43%",
-            "corners_total": 8.2,
-            "cards_total": 3.9,
-            "confidence": "86%",
-            "pred1x2": "EARLY GOAL LIKELY"
-        },
-        {
-            "meci": "Juventud de Las Piedras vs Cienciano",
-            "liga": "CONMEBOL SUDAMERICANA, GROUP B",
-            "o05_fh": "67%",
-            "over15": "85%",
-            "over25": "50%",
-            "gg_prob": "60%",
-            "corners_total": 12.1,
-            "cards_total": 5.5,
-            "confidence": "95%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Botafogo vs Caracas F.C.",
-            "liga": "CONMEBOL SUDAMERICANA, GROUP E",
-            "o05_fh": "76%",
-            "over15": "78%",
-            "over25": "75%",
-            "gg_prob": "43%",
-            "corners_total": 8.9,
-            "cards_total": 5.3,
-            "confidence": "94%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Carabobo FC vs Red Bull Bragantino",
-            "liga": "CONMEBOL SUDAMERICANA, GROUP H",
-            "o05_fh": "87%",
-            "over15": "75%",
-            "over25": "65%",
-            "gg_prob": "61%",
-            "corners_total": 12.3,
-            "cards_total": 4.7,
-            "confidence": "89%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Çaykur Rizespor vs Samsunspor",
-            "liga": "TRENDYOL SÜPER LIG",
-            "o05_fh": "68%",
-            "over15": "78%",
-            "over25": "46%",
-            "gg_prob": "42%",
-            "corners_total": 11.4,
-            "cards_total": 5.8,
-            "confidence": "93%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "FK Novi Pazar vs FK Partizan",
-            "liga": "MOZZART BET SUPERLIGA",
-            "o05_fh": "87%",
-            "over15": "89%",
-            "over25": "86%",
-            "gg_prob": "41%",
-            "corners_total": 12.0,
-            "cards_total": 5.9,
-            "confidence": "81%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "FK Crvena zvezda vs FK Spartak Subotica",
-            "liga": "MOZZART BET SUPERLIGA",
-            "o05_fh": "90%",
-            "over15": "97%",
-            "over25": "84%",
-            "gg_prob": "57%",
-            "corners_total": 9.4,
-            "cards_total": 5.6,
-            "confidence": "89%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "FK Čukarički vs FK Radnički 1923",
-            "liga": "MOZZART BET SUPERLIGA",
-            "o05_fh": "93%",
-            "over15": "81%",
-            "over25": "51%",
-            "gg_prob": "60%",
-            "corners_total": 12.4,
-            "cards_total": 5.4,
-            "confidence": "86%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "OFK Beograd vs FK Radnik Surdulica",
-            "liga": "MOZZART BET SUPERLIGA",
-            "o05_fh": "90%",
-            "over15": "96%",
-            "over25": "72%",
-            "gg_prob": "45%",
-            "corners_total": 10.6,
-            "cards_total": 4.8,
-            "confidence": "84%",
-            "pred1x2": "STABLE GOAL TREND"
-        },
-        {
             "meci": "Boluspor vs Sivasspor",
             "liga": "1. LIG",
             "o05_fh": "67%",
@@ -250,7 +10,7 @@
             "corners_total": 10.0,
             "cards_total": 5.7,
             "confidence": "97%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
         },
         {
             "meci": "Esenler Erokspor vs Amed Sportif Faaliyetler",
@@ -262,7 +22,7 @@
             "corners_total": 11.2,
             "cards_total": 4.2,
             "confidence": "81%",
-            "pred1x2": "BALANCED MATCH FLOW"
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "İstanbulspor vs Erzurumspor FK",
@@ -274,355 +34,7 @@
             "corners_total": 10.8,
             "cards_total": 4.8,
             "confidence": "97%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Central Coast Mariners vs Brisbane Roar",
-            "liga": "A-LEAGUE MEN",
-            "o05_fh": "71%",
-            "over15": "76%",
-            "over25": "84%",
-            "gg_prob": "57%",
-            "corners_total": 11.8,
-            "cards_total": 5.4,
-            "confidence": "96%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Dalian Yingbo FC vs Zhejiang",
-            "liga": "CHINESE SUPER LEAGUE",
-            "o05_fh": "90%",
-            "over15": "81%",
-            "over25": "53%",
-            "gg_prob": "76%",
-            "corners_total": 8.4,
-            "cards_total": 5.1,
-            "confidence": "93%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Ismailia Electricity Club vs Al-Ittihad Alexandria",
-            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
-            "o05_fh": "93%",
-            "over15": "96%",
-            "over25": "62%",
-            "gg_prob": "67%",
-            "corners_total": 11.0,
-            "cards_total": 4.3,
-            "confidence": "98%",
-            "pred1x2": "EARLY GOAL LIKELY"
-        },
-        {
-            "meci": "Tala'ea El-Gaish vs National Bank of Egypt",
-            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
-            "o05_fh": "65%",
-            "over15": "93%",
-            "over25": "69%",
-            "gg_prob": "79%",
-            "corners_total": 12.2,
-            "cards_total": 2.8,
-            "confidence": "84%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Arab Contractors FC vs Ismaily",
-            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
-            "o05_fh": "76%",
-            "over15": "75%",
-            "over25": "72%",
-            "gg_prob": "47%",
-            "corners_total": 9.7,
-            "cards_total": 2.6,
-            "confidence": "88%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Petrojet vs ZED FC",
-            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
-            "o05_fh": "90%",
-            "over15": "75%",
-            "over25": "85%",
-            "gg_prob": "49%",
-            "corners_total": 10.2,
-            "cards_total": 3.7,
-            "confidence": "88%",
-            "pred1x2": "HIGH SCORING MATCH"
-        },
-        {
-            "meci": "Jamshedpur FC vs Mumbai City FC",
-            "liga": "SUPER LEAGUE",
-            "o05_fh": "88%",
-            "over15": "98%",
-            "over25": "65%",
-            "gg_prob": "44%",
-            "corners_total": 11.1,
-            "cards_total": 2.6,
-            "confidence": "91%",
-            "pred1x2": "STABLE GOAL TREND"
-        },
-        {
-            "meci": "NorthEast United FC vs Sporting Delhi",
-            "liga": "SUPER LEAGUE",
-            "o05_fh": "94%",
-            "over15": "97%",
-            "over25": "70%",
-            "gg_prob": "50%",
-            "corners_total": 11.6,
-            "cards_total": 3.6,
-            "confidence": "85%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Damac FC vs Al-Qadsiah",
-            "liga": "SAUDI PRO LEAGUE",
-            "o05_fh": "88%",
-            "over15": "87%",
-            "over25": "72%",
-            "gg_prob": "42%",
-            "corners_total": 12.0,
-            "cards_total": 4.2,
-            "confidence": "83%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Al-Ettifaq vs Al-Riyadh",
-            "liga": "SAUDI PRO LEAGUE",
-            "o05_fh": "73%",
-            "over15": "96%",
-            "over25": "54%",
-            "gg_prob": "59%",
-            "corners_total": 11.9,
-            "cards_total": 5.5,
-            "confidence": "95%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Al-Wahda FC vs Al-Ittihad Kalba",
-            "liga": "PRO LEAGUE",
-            "o05_fh": "89%",
-            "over15": "92%",
-            "over25": "80%",
-            "gg_prob": "48%",
-            "corners_total": 9.3,
-            "cards_total": 4.9,
-            "confidence": "92%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "MC Oran vs MB Rouissat",
-            "liga": "LIGUE 1",
-            "o05_fh": "70%",
-            "over15": "90%",
-            "over25": "58%",
-            "gg_prob": "81%",
-            "corners_total": 10.6,
-            "cards_total": 3.1,
-            "confidence": "97%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "MC Alger vs MC El Bayadh",
-            "liga": "LIGUE 1",
-            "o05_fh": "78%",
-            "over15": "97%",
-            "over25": "65%",
-            "gg_prob": "70%",
-            "corners_total": 10.9,
-            "cards_total": 3.1,
-            "confidence": "95%",
-            "pred1x2": "STABLE GOAL TREND"
-        },
-        {
-            "meci": "Gimnasia y Esgrima vs Camioneros",
-            "liga": "COPA ARGENTINA",
-            "o05_fh": "69%",
-            "over15": "90%",
-            "over25": "62%",
-            "gg_prob": "81%",
-            "corners_total": 10.0,
-            "cards_total": 2.7,
-            "confidence": "84%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Preah Khan Reach Svay Rieng FC vs Manila Digger FC",
-            "liga": "AFC CHALLENGE LEAGUE, KNOCKOUT STAGE",
-            "o05_fh": "79%",
-            "over15": "79%",
-            "over25": "52%",
-            "gg_prob": "47%",
-            "corners_total": 8.8,
-            "cards_total": 5.1,
-            "confidence": "84%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Capalaba Bulldogs vs Redlands United",
-            "liga": "QUEENSLAND PREMIER LEAGUE 1",
-            "o05_fh": "84%",
-            "over15": "95%",
-            "over25": "74%",
-            "gg_prob": "80%",
-            "corners_total": 12.1,
-            "cards_total": 5.9,
-            "confidence": "90%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Ipswich FC vs Logan Lightning",
-            "liga": "QUEENSLAND PREMIER LEAGUE 1",
-            "o05_fh": "74%",
-            "over15": "98%",
-            "over25": "48%",
-            "gg_prob": "86%",
-            "corners_total": 11.5,
-            "cards_total": 5.6,
-            "confidence": "93%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "FK Karvan Yevlax vs Kəpəz PFK",
-            "liga": "PREMIER LEAGUE",
-            "o05_fh": "74%",
-            "over15": "95%",
-            "over25": "49%",
-            "gg_prob": "72%",
-            "corners_total": 9.3,
-            "cards_total": 5.6,
-            "confidence": "87%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "FC Isloch Minsk Region vs Dynamo Brest",
-            "liga": "VYSSHAYA LEAGUE",
-            "o05_fh": "72%",
-            "over15": "87%",
-            "over25": "60%",
-            "gg_prob": "45%",
-            "corners_total": 12.4,
-            "cards_total": 4.9,
-            "confidence": "92%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "AO Itabaiana vs Confiança",
-            "liga": "COPA DO NORDESTE",
-            "o05_fh": "89%",
-            "over15": "81%",
-            "over25": "64%",
-            "gg_prob": "66%",
-            "corners_total": 10.4,
-            "cards_total": 3.0,
-            "confidence": "88%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "ASA vs CRB",
-            "liga": "COPA DO NORDESTE",
-            "o05_fh": "80%",
-            "over15": "93%",
-            "over25": "71%",
-            "gg_prob": "81%",
-            "corners_total": 9.7,
-            "cards_total": 5.9,
-            "confidence": "98%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Lokomotiv Sofia vs Beroe Stara Zagora",
-            "liga": "PARVA LIGA",
-            "o05_fh": "67%",
-            "over15": "77%",
-            "over25": "78%",
-            "gg_prob": "47%",
-            "corners_total": 11.9,
-            "cards_total": 5.4,
-            "confidence": "95%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "Ludogorets vs Cherno More Varna",
-            "liga": "PARVA LIGA",
-            "o05_fh": "93%",
-            "over15": "91%",
-            "over25": "51%",
-            "gg_prob": "79%",
-            "corners_total": 10.2,
-            "cards_total": 4.2,
-            "confidence": "84%",
-            "pred1x2": "EARLY GOAL LIKELY"
-        },
-        {
-            "meci": "Levski Sofia vs Arda Kardzhali",
-            "liga": "PARVA LIGA",
-            "o05_fh": "71%",
-            "over15": "82%",
-            "over25": "87%",
-            "gg_prob": "71%",
-            "corners_total": 10.8,
-            "cards_total": 4.4,
-            "confidence": "97%",
-            "pred1x2": "HIGH SCORING MATCH"
-        },
-        {
-            "meci": "FK Spartak Varna vs FK Dobrudzha Dobrich",
-            "liga": "PARVA LIGA",
-            "o05_fh": "81%",
-            "over15": "92%",
-            "over25": "51%",
-            "gg_prob": "87%",
-            "corners_total": 12.4,
-            "cards_total": 3.1,
-            "confidence": "83%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Unión Magdalena vs Envigado FC",
-            "liga": "PRIMERA B, APERTURA",
-            "o05_fh": "90%",
-            "over15": "81%",
-            "over25": "86%",
-            "gg_prob": "77%",
-            "corners_total": 9.7,
-            "cards_total": 5.4,
-            "confidence": "81%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
-        },
-        {
-            "meci": "PSIM Yogyakarta vs PSM Makassar",
-            "liga": "INDONESIA SUPER LEAGUE",
-            "o05_fh": "88%",
-            "over15": "81%",
-            "over25": "65%",
-            "gg_prob": "57%",
-            "corners_total": 11.7,
-            "cards_total": 2.7,
-            "confidence": "83%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "FK Grobiņa vs SK Super Nova",
-            "liga": "VIRSLIGA",
-            "o05_fh": "90%",
-            "over15": "85%",
-            "over25": "49%",
-            "gg_prob": "84%",
-            "corners_total": 9.4,
-            "cards_total": 2.7,
-            "confidence": "83%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Riga FC vs FK Tukums 2000",
-            "liga": "VIRSLIGA",
-            "o05_fh": "93%",
-            "over15": "92%",
-            "over25": "55%",
-            "gg_prob": "83%",
-            "corners_total": 12.0,
-            "cards_total": 4.5,
-            "confidence": "94%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "KF Shkupi vs FC Struga Trim & Lum",
@@ -634,7 +46,7 @@
             "corners_total": 9.4,
             "cards_total": 5.4,
             "confidence": "90%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "Makedonija Gjorce Petrov vs FK Arsimi 1973",
@@ -646,31 +58,175 @@
             "corners_total": 8.2,
             "cards_total": 3.3,
             "confidence": "84%",
-            "pred1x2": "BALANCED MATCH FLOW"
+            "pred1x2": "TARGET: BOTH TEAMS TO SCORE"
         },
         {
-            "meci": "Raków Częstochowa vs GKS Katowice",
-            "liga": "PUCHAR POLSKI",
+            "meci": "Central Coast Mariners vs Brisbane Roar",
+            "liga": "A-LEAGUE MEN",
+            "o05_fh": "71%",
+            "over15": "76%",
+            "over25": "84%",
+            "gg_prob": "57%",
+            "corners_total": 11.8,
+            "cards_total": 5.4,
+            "confidence": "96%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Preah Khan Reach Svay Rieng FC vs Manila Digger FC",
+            "liga": "AFC CHALLENGE LEAGUE, KNOCKOUT STAGE",
             "o05_fh": "79%",
-            "over15": "96%",
-            "over25": "45%",
-            "gg_prob": "89%",
-            "corners_total": 11.0,
-            "cards_total": 5.5,
-            "confidence": "82%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
+            "over15": "79%",
+            "over25": "52%",
+            "gg_prob": "47%",
+            "corners_total": 8.8,
+            "cards_total": 5.1,
+            "confidence": "84%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
         },
         {
-            "meci": "Chindia Târgoviște vs FC Bihor Oradea",
-            "liga": "LIGA 2, PROMOTION ROUND",
-            "o05_fh": "68%",
-            "over15": "78%",
-            "over25": "86%",
-            "gg_prob": "79%",
-            "corners_total": 8.6,
-            "cards_total": 4.5,
+            "meci": "Dalian Yingbo FC vs Zhejiang",
+            "liga": "CHINESE SUPER LEAGUE",
+            "o05_fh": "90%",
+            "over15": "81%",
+            "over25": "53%",
+            "gg_prob": "76%",
+            "corners_total": 8.4,
+            "cards_total": 5.1,
+            "confidence": "93%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Platense vs Corinthians",
+            "liga": "CONMEBOL LIBERTADORES, GROUP E",
+            "o05_fh": "74%",
+            "over15": "98%",
+            "over25": "52%",
+            "gg_prob": "86%",
+            "corners_total": 11.3,
+            "cards_total": 4.3,
             "confidence": "92%",
-            "pred1x2": "HIGH SCORING MATCH"
+            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "Independiente Santa Fe vs Peñarol",
+            "liga": "CONMEBOL LIBERTADORES, GROUP E",
+            "o05_fh": "80%",
+            "over15": "92%",
+            "over25": "79%",
+            "gg_prob": "50%",
+            "corners_total": 10.9,
+            "cards_total": 4.7,
+            "confidence": "92%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Rosario Central vs Independiente del Valle",
+            "liga": "CONMEBOL LIBERTADORES, GROUP H",
+            "o05_fh": "83%",
+            "over15": "80%",
+            "over25": "45%",
+            "gg_prob": "84%",
+            "corners_total": 9.0,
+            "cards_total": 4.7,
+            "confidence": "88%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Universidad Central vs Libertad",
+            "liga": "CONMEBOL LIBERTADORES, GROUP H",
+            "o05_fh": "74%",
+            "over15": "91%",
+            "over25": "82%",
+            "gg_prob": "83%",
+            "corners_total": 8.4,
+            "cards_total": 3.9,
+            "confidence": "89%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Macará vs América de Cali",
+            "liga": "CONMEBOL SUDAMERICANA, GROUP A",
+            "o05_fh": "92%",
+            "over15": "84%",
+            "over25": "46%",
+            "gg_prob": "43%",
+            "corners_total": 8.2,
+            "cards_total": 3.9,
+            "confidence": "86%",
+            "pred1x2": "TARGET: 0.5+ 1ST HALF GOALS"
+        },
+        {
+            "meci": "Juventud de Las Piedras vs Cienciano",
+            "liga": "CONMEBOL SUDAMERICANA, GROUP B",
+            "o05_fh": "67%",
+            "over15": "85%",
+            "over25": "50%",
+            "gg_prob": "60%",
+            "corners_total": 12.1,
+            "cards_total": 5.5,
+            "confidence": "95%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Botafogo vs Caracas F.C.",
+            "liga": "CONMEBOL SUDAMERICANA, GROUP E",
+            "o05_fh": "76%",
+            "over15": "78%",
+            "over25": "75%",
+            "gg_prob": "43%",
+            "corners_total": 8.9,
+            "cards_total": 5.3,
+            "confidence": "94%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Carabobo FC vs Red Bull Bragantino",
+            "liga": "CONMEBOL SUDAMERICANA, GROUP H",
+            "o05_fh": "87%",
+            "over15": "75%",
+            "over25": "65%",
+            "gg_prob": "61%",
+            "corners_total": 12.3,
+            "cards_total": 4.7,
+            "confidence": "89%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Gimnasia y Esgrima vs Camioneros",
+            "liga": "COPA ARGENTINA",
+            "o05_fh": "69%",
+            "over15": "90%",
+            "over25": "62%",
+            "gg_prob": "81%",
+            "corners_total": 10.0,
+            "cards_total": 2.7,
+            "confidence": "84%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "AO Itabaiana vs Confiança",
+            "liga": "COPA DO NORDESTE",
+            "o05_fh": "89%",
+            "over15": "81%",
+            "over25": "64%",
+            "gg_prob": "66%",
+            "corners_total": 10.4,
+            "cards_total": 3.0,
+            "confidence": "88%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "ASA vs CRB",
+            "liga": "COPA DO NORDESTE",
+            "o05_fh": "80%",
+            "over15": "93%",
+            "over25": "71%",
+            "gg_prob": "81%",
+            "corners_total": 9.7,
+            "cards_total": 5.9,
+            "confidence": "98%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
         },
         {
             "meci": "Al Ula vs Abha",
@@ -682,7 +238,7 @@
             "corners_total": 9.9,
             "cards_total": 2.8,
             "confidence": "98%",
-            "pred1x2": "BALANCED MATCH FLOW"
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "Al Adalah vs Al Batin",
@@ -694,7 +250,211 @@
             "corners_total": 11.6,
             "cards_total": 3.5,
             "confidence": "89%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Ismailia Electricity Club vs Al-Ittihad Alexandria",
+            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
+            "o05_fh": "93%",
+            "over15": "96%",
+            "over25": "62%",
+            "gg_prob": "67%",
+            "corners_total": 11.0,
+            "cards_total": 4.3,
+            "confidence": "98%",
+            "pred1x2": "TARGET: 0.5+ 1ST HALF GOALS"
+        },
+        {
+            "meci": "Tala'ea El-Gaish vs National Bank of Egypt",
+            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
+            "o05_fh": "65%",
+            "over15": "93%",
+            "over25": "69%",
+            "gg_prob": "79%",
+            "corners_total": 12.2,
+            "cards_total": 2.8,
+            "confidence": "84%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Arab Contractors FC vs Ismaily",
+            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
+            "o05_fh": "76%",
+            "over15": "75%",
+            "over25": "72%",
+            "gg_prob": "47%",
+            "corners_total": 9.7,
+            "cards_total": 2.6,
+            "confidence": "88%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Petrojet vs ZED FC",
+            "liga": "EGYPTIAN PREMIER LEAGUE, RELEGATION ROUND",
+            "o05_fh": "90%",
+            "over15": "75%",
+            "over25": "85%",
+            "gg_prob": "49%",
+            "corners_total": 10.2,
+            "cards_total": 3.7,
+            "confidence": "88%",
+            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "PSIM Yogyakarta vs PSM Makassar",
+            "liga": "INDONESIA SUPER LEAGUE",
+            "o05_fh": "88%",
+            "over15": "81%",
+            "over25": "65%",
+            "gg_prob": "57%",
+            "corners_total": 11.7,
+            "cards_total": 2.7,
+            "confidence": "83%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Chindia Târgoviște vs FC Bihor Oradea",
+            "liga": "LIGA 2, PROMOTION ROUND",
+            "o05_fh": "68%",
+            "over15": "78%",
+            "over25": "86%",
+            "gg_prob": "79%",
+            "corners_total": 8.6,
+            "cards_total": 4.5,
+            "confidence": "92%",
+            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "MC Oran vs MB Rouissat",
+            "liga": "LIGUE 1",
+            "o05_fh": "70%",
+            "over15": "90%",
+            "over25": "58%",
+            "gg_prob": "81%",
+            "corners_total": 10.6,
+            "cards_total": 3.1,
+            "confidence": "97%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "MC Alger vs MC El Bayadh",
+            "liga": "LIGUE 1",
+            "o05_fh": "78%",
+            "over15": "97%",
+            "over25": "65%",
+            "gg_prob": "70%",
+            "corners_total": 10.9,
+            "cards_total": 3.1,
+            "confidence": "95%",
+            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "FK Novi Pazar vs FK Partizan",
+            "liga": "MOZZART BET SUPERLIGA",
+            "o05_fh": "87%",
+            "over15": "89%",
+            "over25": "86%",
+            "gg_prob": "41%",
+            "corners_total": 12.0,
+            "cards_total": 5.9,
+            "confidence": "81%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "FK Crvena zvezda vs FK Spartak Subotica",
+            "liga": "MOZZART BET SUPERLIGA",
+            "o05_fh": "90%",
+            "over15": "97%",
+            "over25": "84%",
+            "gg_prob": "57%",
+            "corners_total": 9.4,
+            "cards_total": 5.6,
+            "confidence": "89%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "FK Čukarički vs FK Radnički 1923",
+            "liga": "MOZZART BET SUPERLIGA",
+            "o05_fh": "93%",
+            "over15": "81%",
+            "over25": "51%",
+            "gg_prob": "60%",
+            "corners_total": 12.4,
+            "cards_total": 5.4,
+            "confidence": "86%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "OFK Beograd vs FK Radnik Surdulica",
+            "liga": "MOZZART BET SUPERLIGA",
+            "o05_fh": "90%",
+            "over15": "96%",
+            "over25": "72%",
+            "gg_prob": "45%",
+            "corners_total": 10.6,
+            "cards_total": 4.8,
+            "confidence": "84%",
+            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "Lokomotiv Sofia vs Beroe Stara Zagora",
+            "liga": "PARVA LIGA",
+            "o05_fh": "67%",
+            "over15": "77%",
+            "over25": "78%",
+            "gg_prob": "47%",
+            "corners_total": 11.9,
+            "cards_total": 5.4,
+            "confidence": "95%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Ludogorets vs Cherno More Varna",
+            "liga": "PARVA LIGA",
+            "o05_fh": "93%",
+            "over15": "91%",
+            "over25": "51%",
+            "gg_prob": "79%",
+            "corners_total": 10.2,
+            "cards_total": 4.2,
+            "confidence": "84%",
+            "pred1x2": "TARGET: 0.5+ 1ST HALF GOALS"
+        },
+        {
+            "meci": "Levski Sofia vs Arda Kardzhali",
+            "liga": "PARVA LIGA",
+            "o05_fh": "71%",
+            "over15": "82%",
+            "over25": "87%",
+            "gg_prob": "71%",
+            "corners_total": 10.8,
+            "cards_total": 4.4,
+            "confidence": "97%",
+            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "FK Spartak Varna vs FK Dobrudzha Dobrich",
+            "liga": "PARVA LIGA",
+            "o05_fh": "81%",
+            "over15": "92%",
+            "over25": "51%",
+            "gg_prob": "87%",
+            "corners_total": 12.4,
+            "cards_total": 3.1,
+            "confidence": "83%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "FK Karvan Yevlax vs Kəpəz PFK",
+            "liga": "PREMIER LEAGUE",
+            "o05_fh": "74%",
+            "over15": "95%",
+            "over25": "49%",
+            "gg_prob": "72%",
+            "corners_total": 9.3,
+            "cards_total": 5.6,
+            "confidence": "87%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
         },
         {
             "meci": "Tanjong Pagar United vs Young Lions",
@@ -706,31 +466,7 @@
             "corners_total": 12.1,
             "cards_total": 2.8,
             "confidence": "80%",
-            "pred1x2": "ATTACKING FLOW (CORNERS)"
-        },
-        {
-            "meci": "Colombia U17 vs Uruguay U17",
-            "liga": "U17 CONMEBOL CHAMPIONSHIP, GROUP A",
-            "o05_fh": "72%",
-            "over15": "90%",
-            "over25": "78%",
-            "gg_prob": "89%",
-            "corners_total": 10.1,
-            "cards_total": 4.2,
-            "confidence": "89%",
-            "pred1x2": "BALANCED MATCH FLOW"
-        },
-        {
-            "meci": "Chile U17 vs Paraguay U17",
-            "liga": "U17 CONMEBOL CHAMPIONSHIP, GROUP A",
-            "o05_fh": "83%",
-            "over15": "97%",
-            "over25": "80%",
-            "gg_prob": "52%",
-            "corners_total": 9.4,
-            "cards_total": 5.6,
-            "confidence": "93%",
-            "pred1x2": "HIGH INTENSITY (CARDS)"
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
         },
         {
             "meci": "SC Poltava vs Polissya Zhytomyr",
@@ -742,59 +478,313 @@
             "corners_total": 10.8,
             "cards_total": 4.2,
             "confidence": "81%",
-            "pred1x2": "BALANCED MATCH FLOW"
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Unión Magdalena vs Envigado FC",
+            "liga": "PRIMERA B, APERTURA",
+            "o05_fh": "90%",
+            "over15": "81%",
+            "over25": "86%",
+            "gg_prob": "77%",
+            "corners_total": 9.7,
+            "cards_total": 5.4,
+            "confidence": "81%",
+            "pred1x2": "TARGET: 2.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "Al-Wahda FC vs Al-Ittihad Kalba",
+            "liga": "PRO LEAGUE",
+            "o05_fh": "89%",
+            "over15": "92%",
+            "over25": "80%",
+            "gg_prob": "48%",
+            "corners_total": 9.3,
+            "cards_total": 4.9,
+            "confidence": "92%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Raków Częstochowa vs GKS Katowice",
+            "liga": "PUCHAR POLSKI",
+            "o05_fh": "79%",
+            "over15": "96%",
+            "over25": "45%",
+            "gg_prob": "89%",
+            "corners_total": 11.0,
+            "cards_total": 5.5,
+            "confidence": "82%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Capalaba Bulldogs vs Redlands United",
+            "liga": "QUEENSLAND PREMIER LEAGUE 1",
+            "o05_fh": "84%",
+            "over15": "95%",
+            "over25": "74%",
+            "gg_prob": "80%",
+            "corners_total": 12.1,
+            "cards_total": 5.9,
+            "confidence": "90%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Ipswich FC vs Logan Lightning",
+            "liga": "QUEENSLAND PREMIER LEAGUE 1",
+            "o05_fh": "74%",
+            "over15": "98%",
+            "over25": "48%",
+            "gg_prob": "86%",
+            "corners_total": 11.5,
+            "cards_total": 5.6,
+            "confidence": "93%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Damac FC vs Al-Qadsiah",
+            "liga": "SAUDI PRO LEAGUE",
+            "o05_fh": "88%",
+            "over15": "87%",
+            "over25": "72%",
+            "gg_prob": "42%",
+            "corners_total": 12.0,
+            "cards_total": 4.2,
+            "confidence": "83%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Al-Ettifaq vs Al-Riyadh",
+            "liga": "SAUDI PRO LEAGUE",
+            "o05_fh": "73%",
+            "over15": "96%",
+            "over25": "54%",
+            "gg_prob": "59%",
+            "corners_total": 11.9,
+            "cards_total": 5.5,
+            "confidence": "95%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Jamshedpur FC vs Mumbai City FC",
+            "liga": "SUPER LEAGUE",
+            "o05_fh": "88%",
+            "over15": "98%",
+            "over25": "65%",
+            "gg_prob": "44%",
+            "corners_total": 11.1,
+            "cards_total": 2.6,
+            "confidence": "91%",
+            "pred1x2": "TARGET: 1.5+ TOTAL GOALS"
+        },
+        {
+            "meci": "NorthEast United FC vs Sporting Delhi",
+            "liga": "SUPER LEAGUE",
+            "o05_fh": "94%",
+            "over15": "97%",
+            "over25": "70%",
+            "gg_prob": "50%",
+            "corners_total": 11.6,
+            "cards_total": 3.6,
+            "confidence": "85%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Çaykur Rizespor vs Samsunspor",
+            "liga": "TRENDYOL SÜPER LIG",
+            "o05_fh": "68%",
+            "over15": "78%",
+            "over25": "46%",
+            "gg_prob": "42%",
+            "corners_total": 11.4,
+            "cards_total": 5.8,
+            "confidence": "93%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Colombia U17 vs Uruguay U17",
+            "liga": "U17 CONMEBOL CHAMPIONSHIP, GROUP A",
+            "o05_fh": "72%",
+            "over15": "90%",
+            "over25": "78%",
+            "gg_prob": "89%",
+            "corners_total": 10.1,
+            "cards_total": 4.2,
+            "confidence": "89%",
+            "pred1x2": "TARGET: BOTH TEAMS TO SCORE"
+        },
+        {
+            "meci": "Chile U17 vs Paraguay U17",
+            "liga": "U17 CONMEBOL CHAMPIONSHIP, GROUP A",
+            "o05_fh": "83%",
+            "over15": "97%",
+            "over25": "80%",
+            "gg_prob": "52%",
+            "corners_total": 9.4,
+            "cards_total": 5.6,
+            "confidence": "93%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "Rayo Vallecano vs AEK Athens",
+            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
+            "o05_fh": "65%",
+            "over15": "78%",
+            "over25": "56%",
+            "gg_prob": "61%",
+            "corners_total": 8.7,
+            "cards_total": 4.8,
+            "confidence": "82%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "1. FSV Mainz 05 vs RC Strasbourg",
+            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
+            "o05_fh": "76%",
+            "over15": "85%",
+            "over25": "75%",
+            "gg_prob": "59%",
+            "corners_total": 8.6,
+            "cards_total": 4.7,
+            "confidence": "80%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Crystal Palace vs Fiorentina",
+            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
+            "o05_fh": "71%",
+            "over15": "76%",
+            "over25": "68%",
+            "gg_prob": "44%",
+            "corners_total": 9.3,
+            "cards_total": 5.4,
+            "confidence": "83%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Shakhtar Donetsk vs AZ Alkmaar",
+            "liga": "UEFA CONFERENCE LEAGUE, KNOCKOUT PHASE",
+            "o05_fh": "79%",
+            "over15": "92%",
+            "over25": "86%",
+            "gg_prob": "43%",
+            "corners_total": 11.8,
+            "cards_total": 5.2,
+            "confidence": "89%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "Bologna vs Aston Villa",
+            "liga": "UEFA EUROPA LEAGUE, KNOCKOUT STAGE",
+            "o05_fh": "84%",
+            "over15": "92%",
+            "over25": "81%",
+            "gg_prob": "58%",
+            "corners_total": 9.9,
+            "cards_total": 3.7,
+            "confidence": "88%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "FC Porto vs Nottingham Forest",
+            "liga": "UEFA EUROPA LEAGUE, KNOCKOUT STAGE",
+            "o05_fh": "68%",
+            "over15": "77%",
+            "over25": "83%",
+            "gg_prob": "65%",
+            "corners_total": 11.7,
+            "cards_total": 5.6,
+            "confidence": "83%",
+            "pred1x2": "TARGET: 4.5+ TOTAL CARDS"
+        },
+        {
+            "meci": "SC Freiburg vs Celta Vigo",
+            "liga": "UEFA EUROPA LEAGUE, KNOCKOUT STAGE",
+            "o05_fh": "74%",
+            "over15": "85%",
+            "over25": "60%",
+            "gg_prob": "69%",
+            "corners_total": 10.9,
+            "cards_total": 3.0,
+            "confidence": "95%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "FK Grobiņa vs SK Super Nova",
+            "liga": "VIRSLIGA",
+            "o05_fh": "90%",
+            "over15": "85%",
+            "over25": "49%",
+            "gg_prob": "84%",
+            "corners_total": 9.4,
+            "cards_total": 2.7,
+            "confidence": "83%",
+            "pred1x2": "TARGET: 1X / X2 FAVORITE"
+        },
+        {
+            "meci": "Riga FC vs FK Tukums 2000",
+            "liga": "VIRSLIGA",
+            "o05_fh": "93%",
+            "over15": "92%",
+            "over25": "55%",
+            "gg_prob": "83%",
+            "corners_total": 12.0,
+            "cards_total": 4.5,
+            "confidence": "94%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
+        },
+        {
+            "meci": "FC Isloch Minsk Region vs Dynamo Brest",
+            "liga": "VYSSHAYA LEAGUE",
+            "o05_fh": "72%",
+            "over15": "87%",
+            "over25": "60%",
+            "gg_prob": "45%",
+            "corners_total": 12.4,
+            "cards_total": 4.9,
+            "confidence": "92%",
+            "pred1x2": "TARGET: 9.5+ TOTAL CORNERS"
         }
     ],
     "history": [
         {
             "meci": "SC Freiburg vs Celta Vigo",
-            "pick": "BALANCED MATCH FLOW",
-            "result": "WIN"
+            "pick": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "Juventud de Las Piedras vs Cienciano",
-            "pick": "HIGH INTENSITY (CARDS)",
-            "result": "WIN"
+            "pick": "TARGET: 4.5+ TOTAL CARDS"
         },
         {
             "meci": "Boluspor vs Sivasspor",
-            "pick": "HIGH INTENSITY (CARDS)",
-            "result": "WIN"
+            "pick": "TARGET: 4.5+ TOTAL CARDS"
         },
         {
             "meci": "İstanbulspor vs Erzurumspor FK",
-            "pick": "BALANCED MATCH FLOW",
-            "result": "WIN"
+            "pick": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "Central Coast Mariners vs Brisbane Roar",
-            "pick": "HIGH INTENSITY (CARDS)",
-            "result": "WIN"
+            "pick": "TARGET: 9.5+ TOTAL CORNERS"
         },
         {
             "meci": "Ismailia Electricity Club vs Al-Ittihad Alexandria",
-            "pick": "EARLY GOAL LIKELY",
-            "result": "WIN"
+            "pick": "TARGET: 0.5+ 1ST HALF GOALS"
         },
         {
             "meci": "Al-Ettifaq vs Al-Riyadh",
-            "pick": "HIGH INTENSITY (CARDS)",
-            "result": "WIN"
+            "pick": "TARGET: 4.5+ TOTAL CARDS"
         },
         {
             "meci": "MC Oran vs MB Rouissat",
-            "pick": "BALANCED MATCH FLOW",
-            "result": "WIN"
+            "pick": "TARGET: 1X / X2 FAVORITE"
         },
         {
             "meci": "MC Alger vs MC El Bayadh",
-            "pick": "STABLE GOAL TREND",
-            "result": "WIN"
+            "pick": "TARGET: 1.5+ TOTAL GOALS"
         },
         {
             "meci": "ASA vs CRB",
-            "pick": "HIGH INTENSITY (CARDS)",
-            "result": "WIN"
+            "pick": "TARGET: 4.5+ TOTAL CARDS"
         }
     ]
 }
