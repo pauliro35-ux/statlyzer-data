@@ -853,18 +853,6 @@
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
-            "meci": "MFK Chrudim vs SK Slavia Praha B",
-            "liga": "FNL",
-            "o05_fh": "71%",
-            "over15": "78%",
-            "over25": "72%",
-            "gg_prob": "40%",
-            "corners_total": 12.3,
-            "cards_total": 3.6,
-            "confidence": "90%",
-            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
-        },
-        {
             "meci": "1. SK Prostějov vs Baník Ostrava B",
             "liga": "FNL",
             "o05_fh": "90%",
@@ -1549,30 +1537,6 @@
             "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
-            "meci": "ES Ben Aknoun vs ASO Chlef",
-            "liga": "LIGUE 1",
-            "o05_fh": "70%",
-            "over15": "98%",
-            "over25": "62%",
-            "gg_prob": "74%",
-            "corners_total": 10.6,
-            "cards_total": 5.3,
-            "confidence": "80%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "ES Mostaganem vs USM Khenchela",
-            "liga": "LIGUE 1",
-            "o05_fh": "74%",
-            "over15": "77%",
-            "over25": "79%",
-            "gg_prob": "90%",
-            "corners_total": 10.5,
-            "cards_total": 3.7,
-            "confidence": "86%",
-            "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
-        },
-        {
             "meci": "JS Kabylie vs CS Constantine",
             "liga": "LIGUE 1",
             "o05_fh": "83%",
@@ -1582,30 +1546,6 @@
             "corners_total": 12.3,
             "cards_total": 3.6,
             "confidence": "89%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "Avenir Sportif De Gabes vs US Ben Guerdane",
-            "liga": "LIGUE 1",
-            "o05_fh": "90%",
-            "over15": "95%",
-            "over25": "68%",
-            "gg_prob": "57%",
-            "corners_total": 8.2,
-            "cards_total": 3.5,
-            "confidence": "89%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "JS Kairouanaise vs JS Omrane",
-            "liga": "LIGUE 1",
-            "o05_fh": "91%",
-            "over15": "90%",
-            "over25": "60%",
-            "gg_prob": "50%",
-            "corners_total": 8.6,
-            "cards_total": 5.6,
-            "confidence": "82%",
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
@@ -1861,18 +1801,6 @@
             "pred1x2": "EXPECTED: 3 OR MORE GOALS"
         },
         {
-            "meci": "Slavia Sofia vs FK Septemvri Sofia",
-            "liga": "PARVA LIGA",
-            "o05_fh": "85%",
-            "over15": "87%",
-            "over25": "45%",
-            "gg_prob": "61%",
-            "corners_total": 10.7,
-            "cards_total": 4.6,
-            "confidence": "91%",
-            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
-        },
-        {
             "meci": "DH Cebu FC vs Taguig FC",
             "liga": "PHILIPPINES FOOTBALL LEAGUE",
             "o05_fh": "78%",
@@ -1993,18 +1921,6 @@
             "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
         },
         {
-            "meci": "Aduana Stars FC vs Bibiani Gold Stars FC",
-            "liga": "PREMIER LEAGUE",
-            "o05_fh": "76%",
-            "over15": "89%",
-            "over25": "56%",
-            "gg_prob": "72%",
-            "corners_total": 10.8,
-            "cards_total": 5.1,
-            "confidence": "94%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "Atyrau vs FC Kaysar",
             "liga": "PREMIER LEAGUE",
             "o05_fh": "73%",
@@ -2039,18 +1955,6 @@
             "cards_total": 3.2,
             "confidence": "87%",
             "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
-        },
-        {
-            "meci": "Rukh Lviv vs Kolos Kovalivka",
-            "liga": "PREMIER LEAGUE",
-            "o05_fh": "76%",
-            "over15": "76%",
-            "over25": "59%",
-            "gg_prob": "49%",
-            "corners_total": 12.3,
-            "cards_total": 4.1,
-            "confidence": "94%",
-            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Karpaty Lviv vs Oleksandria",
@@ -2159,18 +2063,6 @@
             "cards_total": 2.8,
             "confidence": "88%",
             "pred1x2": "EXPECTED: STABLE MATCH FLOW"
-        },
-        {
-            "meci": "Baniyas vs Al-Sharjah",
-            "liga": "PRO LEAGUE",
-            "o05_fh": "66%",
-            "over15": "88%",
-            "over25": "83%",
-            "gg_prob": "57%",
-            "corners_total": 10.8,
-            "cards_total": 4.3,
-            "confidence": "94%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
             "meci": "Al-Ain vs Shabab Al-Ahli Dubai",
@@ -2437,18 +2329,6 @@
             "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
         },
         {
-            "meci": "FC Goa vs Odisha FC",
-            "liga": "SUPER LEAGUE",
-            "o05_fh": "73%",
-            "over15": "96%",
-            "over25": "88%",
-            "gg_prob": "41%",
-            "corners_total": 8.9,
-            "cards_total": 2.7,
-            "confidence": "89%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "Chennaiyin FC vs East Bengal FC",
             "liga": "SUPER LEAGUE",
             "o05_fh": "71%",
@@ -2677,18 +2557,6 @@
             "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
-            "meci": "TPS vs FC Lahti",
-            "liga": "VEIKKAUSLIIGA",
-            "o05_fh": "76%",
-            "over15": "94%",
-            "over25": "69%",
-            "gg_prob": "90%",
-            "corners_total": 10.6,
-            "cards_total": 4.5,
-            "confidence": "90%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "SJK vs IFK Mariehamn",
             "liga": "VEIKKAUSLIIGA",
             "o05_fh": "82%",
@@ -2735,18 +2603,6 @@
             "cards_total": 3.8,
             "confidence": "80%",
             "pred1x2": "EXPECTED: HIGH CORNER COUNT"
-        },
-        {
-            "meci": "Belshina Bobruisk vs Dnepr Mogilev",
-            "liga": "VYSSHAYA LEAGUE",
-            "o05_fh": "83%",
-            "over15": "80%",
-            "over25": "80%",
-            "gg_prob": "56%",
-            "corners_total": 8.1,
-            "cards_total": 3.3,
-            "confidence": "84%",
-            "pred1x2": "EXPECTED: 3 OR MORE GOALS"
         },
         {
             "meci": "FC Minsk vs Neman Grodno",
