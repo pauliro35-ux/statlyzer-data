@@ -145,18 +145,6 @@
             "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
-            "meci": "Central Coast Mariners vs Brisbane Roar",
-            "liga": "A-LEAGUE MEN",
-            "o05_fh": "71%",
-            "over15": "76%",
-            "over25": "84%",
-            "gg_prob": "57%",
-            "corners_total": 11.8,
-            "cards_total": 5.4,
-            "confidence": "96%",
-            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
-        },
-        {
             "meci": "Auckland FC vs Melbourne Victory",
             "liga": "A-LEAGUE MEN",
             "o05_fh": "74%",
@@ -490,18 +478,6 @@
             "corners_total": 8.6,
             "cards_total": 5.5,
             "confidence": "94%",
-            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
-        },
-        {
-            "meci": "Dalian Yingbo FC vs Zhejiang",
-            "liga": "CHINESE SUPER LEAGUE",
-            "o05_fh": "90%",
-            "over15": "81%",
-            "over25": "53%",
-            "gg_prob": "76%",
-            "corners_total": 8.4,
-            "cards_total": 5.1,
-            "confidence": "93%",
             "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
@@ -961,18 +937,6 @@
             "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
-            "meci": "Namdhari FC vs Shillong Lajong FC",
-            "liga": "I-LEAGUE",
-            "o05_fh": "82%",
-            "over15": "85%",
-            "over25": "87%",
-            "gg_prob": "69%",
-            "corners_total": 10.0,
-            "cards_total": 3.6,
-            "confidence": "88%",
-            "pred1x2": "EXPECTED: 3 OR MORE GOALS"
-        },
-        {
             "meci": "Dempo SC vs Aizawl FC",
             "liga": "I-LEAGUE",
             "o05_fh": "91%",
@@ -983,30 +947,6 @@
             "cards_total": 5.8,
             "confidence": "90%",
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "PSIM Yogyakarta vs PSM Makassar",
-            "liga": "INDONESIA SUPER LEAGUE",
-            "o05_fh": "88%",
-            "over15": "81%",
-            "over25": "65%",
-            "gg_prob": "57%",
-            "corners_total": 11.7,
-            "cards_total": 2.7,
-            "confidence": "83%",
-            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
-        },
-        {
-            "meci": "Persita Tangerang vs Arema FC",
-            "liga": "INDONESIA SUPER LEAGUE",
-            "o05_fh": "70%",
-            "over15": "83%",
-            "over25": "45%",
-            "gg_prob": "71%",
-            "corners_total": 11.1,
-            "cards_total": 4.1,
-            "confidence": "94%",
-            "pred1x2": "EXPECTED: HIGH CORNER COUNT"
         },
         {
             "meci": "Borneo FC Samarinda vs PSBS Biak",
@@ -1366,30 +1306,6 @@
             "corners_total": 12.4,
             "cards_total": 3.0,
             "confidence": "85%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "Chindia Târgoviște vs FC Bihor Oradea",
-            "liga": "LIGA 2, PROMOTION ROUND",
-            "o05_fh": "68%",
-            "over15": "78%",
-            "over25": "86%",
-            "gg_prob": "79%",
-            "corners_total": 8.6,
-            "cards_total": 4.5,
-            "confidence": "92%",
-            "pred1x2": "EXPECTED: 3 OR MORE GOALS"
-        },
-        {
-            "meci": "FC Voluntari vs FC Corvinul Hunedoara",
-            "liga": "LIGA 2, PROMOTION ROUND",
-            "o05_fh": "82%",
-            "over15": "95%",
-            "over25": "80%",
-            "gg_prob": "58%",
-            "corners_total": 11.7,
-            "cards_total": 4.6,
-            "confidence": "87%",
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
@@ -1945,30 +1861,6 @@
             "pred1x2": "EXPECTED: 3 OR MORE GOALS"
         },
         {
-            "meci": "FK Spartak Varna vs FK Dobrudzha Dobrich",
-            "liga": "PARVA LIGA",
-            "o05_fh": "81%",
-            "over15": "92%",
-            "over25": "51%",
-            "gg_prob": "87%",
-            "corners_total": 12.4,
-            "cards_total": 3.1,
-            "confidence": "83%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "FC CSKA 1948 Sofia vs Botev Vratsa",
-            "liga": "PARVA LIGA",
-            "o05_fh": "70%",
-            "over15": "97%",
-            "over25": "88%",
-            "gg_prob": "85%",
-            "corners_total": 8.3,
-            "cards_total": 5.3,
-            "confidence": "93%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "Slavia Sofia vs FK Septemvri Sofia",
             "liga": "PARVA LIGA",
             "o05_fh": "85%",
@@ -2089,18 +1981,6 @@
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
-            "meci": "FK Karvan Yevlax vs Kəpəz PFK",
-            "liga": "PREMIER LEAGUE",
-            "o05_fh": "74%",
-            "over15": "95%",
-            "over25": "49%",
-            "gg_prob": "72%",
-            "corners_total": 9.3,
-            "cards_total": 5.6,
-            "confidence": "87%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "Şamaxı FK vs Qarabağ FK",
             "liga": "PREMIER LEAGUE",
             "o05_fh": "68%",
@@ -2149,18 +2029,6 @@
             "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
-            "meci": "Tanjong Pagar United vs Young Lions",
-            "liga": "PREMIER LEAGUE",
-            "o05_fh": "80%",
-            "over15": "96%",
-            "over25": "49%",
-            "gg_prob": "67%",
-            "corners_total": 12.1,
-            "cards_total": 2.8,
-            "confidence": "80%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "Tampines Rovers vs Geylang International",
             "liga": "PREMIER LEAGUE",
             "o05_fh": "78%",
@@ -2171,18 +2039,6 @@
             "cards_total": 3.2,
             "confidence": "87%",
             "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
-        },
-        {
-            "meci": "SC Poltava vs Polissya Zhytomyr",
-            "liga": "PREMIER LEAGUE",
-            "o05_fh": "88%",
-            "over15": "77%",
-            "over25": "51%",
-            "gg_prob": "80%",
-            "corners_total": 10.8,
-            "cards_total": 4.2,
-            "confidence": "81%",
-            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Rukh Lviv vs Kolos Kovalivka",
@@ -2350,30 +2206,6 @@
             "corners_total": 12.3,
             "cards_total": 2.5,
             "confidence": "97%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "Capalaba Bulldogs vs Redlands United",
-            "liga": "QUEENSLAND PREMIER LEAGUE 1",
-            "o05_fh": "84%",
-            "over15": "95%",
-            "over25": "74%",
-            "gg_prob": "80%",
-            "corners_total": 12.1,
-            "cards_total": 5.9,
-            "confidence": "90%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
-            "meci": "Ipswich FC vs Logan Lightning",
-            "liga": "QUEENSLAND PREMIER LEAGUE 1",
-            "o05_fh": "74%",
-            "over15": "98%",
-            "over25": "48%",
-            "gg_prob": "86%",
-            "corners_total": 11.5,
-            "cards_total": 5.6,
-            "confidence": "93%",
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
@@ -2605,18 +2437,6 @@
             "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
         },
         {
-            "meci": "NorthEast United FC vs Sporting Delhi",
-            "liga": "SUPER LEAGUE",
-            "o05_fh": "94%",
-            "over15": "97%",
-            "over25": "70%",
-            "gg_prob": "50%",
-            "corners_total": 11.6,
-            "cards_total": 3.6,
-            "confidence": "85%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "FC Goa vs Odisha FC",
             "liga": "SUPER LEAGUE",
             "o05_fh": "73%",
@@ -2639,18 +2459,6 @@
             "cards_total": 3.5,
             "confidence": "82%",
             "pred1x2": "EXPECTED: BOTH SIDES TO SCORE"
-        },
-        {
-            "meci": "Kelantan The Real Warriors FC vs Kuala Lumpur City FC",
-            "liga": "SUPER LEAGUE",
-            "o05_fh": "70%",
-            "over15": "76%",
-            "over25": "52%",
-            "gg_prob": "40%",
-            "corners_total": 10.5,
-            "cards_total": 4.9,
-            "confidence": "98%",
-            "pred1x2": "EXPECTED: STABLE MATCH FLOW"
         },
         {
             "meci": "Immigration FC vs Penang",
@@ -2833,18 +2641,6 @@
             "pred1x2": "EXPECTED: 2 OR MORE GOALS"
         },
         {
-            "meci": "Thể Công - Viettel vs Đông Á Thanh Hóa",
-            "liga": "V-LEAGUE 1",
-            "o05_fh": "68%",
-            "over15": "98%",
-            "over25": "55%",
-            "gg_prob": "58%",
-            "corners_total": 12.0,
-            "cards_total": 4.3,
-            "confidence": "97%",
-            "pred1x2": "EXPECTED: 2 OR MORE GOALS"
-        },
-        {
             "meci": "Hải Phòng vs Công An Hồ Chí Minh City",
             "liga": "V-LEAGUE 1",
             "o05_fh": "85%",
@@ -2939,18 +2735,6 @@
             "cards_total": 3.8,
             "confidence": "80%",
             "pred1x2": "EXPECTED: HIGH CORNER COUNT"
-        },
-        {
-            "meci": "Naftan Novopolotsk vs Gomel",
-            "liga": "VYSSHAYA LEAGUE",
-            "o05_fh": "94%",
-            "over15": "79%",
-            "over25": "88%",
-            "gg_prob": "44%",
-            "corners_total": 9.7,
-            "cards_total": 5.6,
-            "confidence": "90%",
-            "pred1x2": "EXPECTED: EARLY GOAL ACTION"
         },
         {
             "meci": "Belshina Bobruisk vs Dnepr Mogilev",
@@ -3052,43 +2836,53 @@
     "history": [
         {
             "meci": "Real Madrid vs Girona FC",
-            "pick": "EXPECTED: EARLY GOAL ACTION"
+            "pick": "EXPECTED: EARLY GOAL ACTION",
+            "date": "2026-04-10"
         },
         {
             "meci": "Paris FC vs AS Monaco",
-            "pick": "EXPECTED: FREQUENT FOULS/CARDS"
+            "pick": "EXPECTED: FREQUENT FOULS/CARDS",
+            "date": "2026-04-10"
         },
         {
             "meci": "Club Atlético Belgrano vs Aldosivi",
-            "pick": "EXPECTED: STABLE MATCH FLOW"
+            "pick": "EXPECTED: STABLE MATCH FLOW",
+            "date": "2026-04-10"
         },
         {
             "meci": "West Bromwich Albion vs Millwall",
-            "pick": "EXPECTED: STABLE MATCH FLOW"
+            "pick": "EXPECTED: STABLE MATCH FLOW",
+            "date": "2026-04-10"
         },
         {
             "meci": "Coventry City vs Sheffield Wednesday",
-            "pick": "EXPECTED: 2 OR MORE GOALS"
+            "pick": "EXPECTED: 2 OR MORE GOALS",
+            "date": "2026-04-10"
         },
         {
             "meci": "Queens Park Rangers vs Bristol City",
-            "pick": "EXPECTED: 2 OR MORE GOALS"
+            "pick": "EXPECTED: 2 OR MORE GOALS",
+            "date": "2026-04-10"
         },
         {
             "meci": "Fortuna Düsseldorf vs Holstein Kiel",
-            "pick": "EXPECTED: EARLY GOAL ACTION"
+            "pick": "EXPECTED: EARLY GOAL ACTION",
+            "date": "2026-04-10"
         },
         {
             "meci": "Preußen Münster vs SpVgg Greuther Fürth",
-            "pick": "EXPECTED: BOTH SIDES TO SCORE"
+            "pick": "EXPECTED: BOTH SIDES TO SCORE",
+            "date": "2026-04-10"
         },
         {
             "meci": "Stade Lavallois vs Stade de Reims",
-            "pick": "EXPECTED: FREQUENT FOULS/CARDS"
+            "pick": "EXPECTED: FREQUENT FOULS/CARDS",
+            "date": "2026-04-10"
         },
         {
             "meci": "FC Den Bosch vs SC Cambuur",
-            "pick": "EXPECTED: EARLY GOAL ACTION"
+            "pick": "EXPECTED: EARLY GOAL ACTION",
+            "date": "2026-04-10"
         }
     ]
 }
